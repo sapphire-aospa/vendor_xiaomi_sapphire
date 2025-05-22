@@ -10,4 +10,4 @@ PRODUCT_MAKEFILES := \
 
 # Lunch target
 COMMON_LUNCH_CHOICES += \
-    aospa_sapphire-userdebug \
+    aospa_sapphire-userdebug
